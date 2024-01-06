@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BankingApplication/BankingApplication.iml" filepath="$PROJECT_DIR$/BankingApplication/BankingApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClickListener/ClickListener.iml" filepath="$PROJECT_DIR$/ClickListener/ClickListener.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCoreProjects.iml" filepath="$PROJECT_DIR$/JavaCoreProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/MusicPlayerApp/MusicPlayerApp.iml" filepath="$PROJECT_DIR$/MusicPlayerApp/MusicPlayerApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleGame/SimpleGame.iml" filepath="$PROJECT_DIR$/SimpleGame/SimpleGame.iml" />
