@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/MusicPlayerApp/MusicPlayerApp.iml" filepath="$PROJECT_DIR$/MusicPlayerApp/MusicPlayerApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleGame/SimpleGame.iml" filepath="$PROJECT_DIR$/SimpleGame/SimpleGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/TelecommunicationApp/TelecommunicationApp.iml" filepath="$PROJECT_DIR$/TelecommunicationApp/TelecommunicationApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VehicleApp/VehicleApp.iml" filepath="$PROJECT_DIR$/VehicleApp/VehicleApp.iml" />
     </modules>
   </component>
 </project>
